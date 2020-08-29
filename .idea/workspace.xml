@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7cf189e7-28e5-4a76-86df-d374939c5756" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../family/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../family/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7cf189e7-28e5-4a76-86df-d374939c5756" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -178,8 +176,23 @@
       <option name="presentableId" value="Default" />
       <updated>1597800187653</updated>
       <workItem from="1597800188732" duration="182644000" />
-      <workItem from="1598676381228" duration="4255000" />
+      <workItem from="1598676381228" duration="4575000" />
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1598713088463</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598713088463</updated>
+    </task>
+    <task id="LOCAL-00002" summary="third commit">
+      <created>1598713223005</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598713223005</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,6 +212,9 @@
   <component name="VcsManagerConfiguration">
     <option name="USE_CUSTOM_SHELF_PATH" value="true" />
     <option name="CUSTOM_SHELF_PATH" value="$PROJECT_DIR$/../family/.idea/shelf" />
+    <MESSAGE value="second commit" />
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598250565877">
@@ -254,6 +270,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="360" y="56" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1598712990401" />
+    <state x="0" y="190" key="Vcs.Push.Dialog.v2" timestamp="1598713273222">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1598713273222" />
     <state x="21" y="67" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598342113603">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
