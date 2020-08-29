@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../family">
+      <sourceFolder url="file://$MODULE_DIR$/../family/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/../family/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../family/app" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/beyondcode/laravel-dump-server" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/erusev/parsedown" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/jakub-onderka/php-console-color" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/jakub-onderka/php-console-highlighter" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/debug" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/polyfill-php70" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/../family/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
