@@ -22,7 +22,7 @@
                                     @enderror
                                 </div>
                             </div>
-                            {{--写真2--}}
+                            {{--写真2.--}}
                             <div class="form-group row">
                                 <label for="pic2" class="col-md-4 col-form-label text-md-right">{{ __('Pic2') }}</label>
                                 <div class="col-md-6">
