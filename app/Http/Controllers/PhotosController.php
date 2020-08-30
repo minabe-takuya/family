@@ -43,9 +43,9 @@ class PhotosController extends Controller
         $photo->fill(['user_id' => Auth::id()]);
         //バリデーションチェック 8/27処理を追加した
         $request->validate([
-            'pic1' => 'file|required|max:255',
-            'pic2' => 'file|nullable|max:255',
-            'pic3' => 'file|nullable|max:255',
+            'pic1' => 'file|required|max:2000',
+            'pic2' => 'file|nullable|max:2000',
+            'pic3' => 'file|nullable|max:2000',
             'comment' => 'nullable|string|max:255',
             'user_id' => 'integer',
         ]);
