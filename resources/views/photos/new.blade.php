@@ -8,6 +8,7 @@
                     <div class="card-header">{{ __('Photo Register') }}</div>
 
                     <div class="card-body">
+                        <p>4MB以下の写真を添付してください</p>
                         <form method="POST" action="{{ route('photos.create') }}" enctype="multipart/form-data">
                             @csrf
                             {{--写真１--}}
