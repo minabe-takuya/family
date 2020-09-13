@@ -2,6 +2,11 @@
 @section('content')
     {{--    検索機能の実装--}}
     <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <example-component></example-component>
+            </div>
+        </div>
         <h3>開始日で検索</h3>
         <div class="row">
             <div class= "col-sm-12">

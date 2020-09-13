@@ -83,11 +83,5 @@
                     {{$all->links()}}
                 </div>
         </div>
-        <div class="row">
-            <div class="col12">
-                <ExampleComponent></ExampleComponent>
-            </div>
-
-        </div>
     </div>
 @endsection

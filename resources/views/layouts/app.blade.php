@@ -11,6 +11,7 @@
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
+{{--    <script src="{{ asset('../node_modules/axios/dist/axios.min.map') }}" defer></script>--}}
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
@@ -86,7 +87,9 @@
         </div>
     @endif
     <main class="py-4">
-        @yield('content')
+        <div id="app">
+            @yield('content')
+        </div>
     </main>
 </div>
 </body>

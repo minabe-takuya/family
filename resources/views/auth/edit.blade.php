@@ -90,6 +90,34 @@
                                 @enderror
                             </div>
                         </div>
+                        <!--緯度-->
+                        <div class="form-group row">
+                            <label for="latitude" class="col-md-4 col-form-label text-md-right">{{ __('latitude') }}</label>
+
+                            <div class="col-md-6">
+                                <input id="latitude" type="text" class="form-control @error('latitude') is-invalid @enderror" name="latitude" value="{{$user->latitude}}" autocomplete="latitude" autofocus>
+
+                                @error('latitude')
+                                <span class="invalid-feedback" role="alert">
+                                        <strong>{{ $message }}</strong>
+                                    </span>
+                                @enderror
+                            </div>
+                        </div>
+                        <!--経緯-->
+                        <div class="form-group row">
+                            <label for="longitude" class="col-md-4 col-form-label text-md-right">{{ __('longitude') }}</label>
+
+                            <div class="col-md-6">
+                                <input id="longitude" type="text" class="form-control @error('longitude') is-invalid @enderror" name="longitude" value="{{$user->longitude}}" autocomplete="longitude" autofocus>
+
+                                @error('longitude')
+                                <span class="invalid-feedback" role="alert">
+                                        <strong>{{ $message }}</strong>
+                                    </span>
+                                @enderror
+                            </div>
+                        </div>
 
                         <div class="form-group row mb-0">
                             <div class="col-md-6 offset-md-4">
